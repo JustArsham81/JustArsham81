@@ -1,7 +1,27 @@
-## Welcome to My Profile
+# Welcome to My Profile
 
-My name is **Arsham**, Currently I am a student from **Zanjan University** studying Software Engineering in Master's Degree.
+Hi, I’m **Arsham** 👋  
+I’m currently an MSc student in **Software Engineering** at **Zanjan University**.
 
-👨‍💻 Programming languages I am familiar with: Python (main), Java and C#
+---
 
-👀 My interest fields: Artificial Intelligence, Data Science, IT, etc.
+## 👨‍💻 Programming Languages
+
+- **Python** (main)
+- **Java**
+- **C#**
+
+---
+
+## 🔍 Interests
+
+- **Artificial Intelligence (AI)**
+  - Especially **Natural Language Processing (NLP)**
+- **Data Science & Machine Learning**
+- **Information Retrieval & Web Search**
+- **Information Technology (IT)**
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my repositories or reach out if you’re interested in similar topics.
